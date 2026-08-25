@@ -27,8 +27,8 @@
 📊 GitHub Languages
 <p align="left">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sazu97&theme=github_dark"
-    alt="Programming languages by repositories"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sazu97&theme=github_dark"
+    alt="Programming languages used in commits"
   />
 </p>
 
