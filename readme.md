@@ -1,7 +1,4 @@
-# 💫 About Me
-
-Hi, I'm **Sara**! ✌️  
-I'm currently learning **fullstack development** and building projects with:
+[![github-header-banner.png](https://i.postimg.cc/Z5njKkZ2/github-header-banner.png)](https://postimg.cc/bZX13BZ9)
 
 **Stack:** HTML | CSS 
 
