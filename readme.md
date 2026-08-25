@@ -4,9 +4,11 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials & Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-rodr%C3%ADguez-medina-2468bb156/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink)](https://www.instagram.com/sazumi.art/)
+
 
 ---
 
