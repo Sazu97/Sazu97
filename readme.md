@@ -1,7 +1,5 @@
 [![github-header-banner.png](https://i.postimg.cc/Z5njKkZ2/github-header-banner.png)](https://postimg.cc/bZX13BZ9)
 
----
-
 ## 🌐 Socials & Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-rodr%C3%ADguez-medina-2468bb156/)
