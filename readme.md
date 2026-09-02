@@ -32,7 +32,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 alt="Programming languages by repositories"
 />
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-commits?username=Sazu97&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-commit?username=Sazu97&theme=github_dark"
 alt="Programming languages by commits"
 />
 
