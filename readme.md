@@ -32,8 +32,8 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 alt="Programming languages by repositories"
 />
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-commit?username=Sazu97&theme=github_dark"
-alt="Programming languages by commits"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sazu97&theme=github_dark"
+alt="Programming languages by repositories"
 />
 
 ## 🔥 Currently
