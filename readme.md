@@ -9,7 +9,7 @@ Combining a solid background in graphic design with modern full-stack web develo
 - 🎓 Graduated from the **Full-Stack Web Development Bootcamp** (Cruz Roja & Factoría F5).
 - 📜 Certified in **Python Essentials 1** (Cisco / Python Institute).
 - 💡 Experience serving as **Product Owner** in agile, collaborative team projects.
-- 🎨 Passionate about UI/UX, pixel art, digital illustration, and game mechanics.
+- ✨ Passionate about UI/UX, digital illustration and photography.
 
 ---
 
