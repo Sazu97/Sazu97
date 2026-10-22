@@ -5,6 +5,7 @@
 
 Combining a solid background in graphic design with modern full-stack web development. I focus on building robust APIs, scalable architectures, and clean, intuitive user interfaces.
 
+- 🎨 **Professional Diploma in Graphic & Advertising Design** (Mac-Line) — 9-month in-person program covering UI/UX (Figma), branding, typography, and motion graphics.
 - 🎓 Graduated from the **Full-Stack Web Development Bootcamp** (Cruz Roja & Factoría F5).
 - 📜 Certified in **Python Essentials 1** (Cisco / Python Institute).
 - 💡 Experience serving as **Product Owner** in agile, collaborative team projects.
