@@ -1,7 +1,7 @@
-[![github-header-banner.png](https://i.postimg.cc/0yFLSsvY/github-header-banner-(1).png)]([https://postimg.cc/bZX13BZ9](https://postimg.cc/CRCPy9z5))
+[![github-header-banner.png](https://i.postimg.cc/0yFLSsvY/github-header-banner-(1).png)](https://postimg.cc/CRCPy9z5)
 
 # Hi there! I'm Sara 👋
-**Junior Full-Stack Web Developer & UI/UX Designer**
+**UI/UX & Graphic Designer | Junior Full-Stack Developer**
 
 Combining a solid background in graphic design with modern full-stack web development. I focus on building robust APIs, scalable architectures, and clean, intuitive user interfaces.
 
@@ -43,12 +43,14 @@ Combining a solid background in graphic design with modern full-stack web develo
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🎨 Creative & Design Suite
-![Clip Studio](https://img.shields.io/badge/Clip%20Studio%20Paint-%23000000.svg?style=for-the-badge&logo=clip-studio-paint&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![GIMP](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge)
+![Clip Studio](https://img.shields.io/badge/Clip%20Studio%20Paint-000000?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
 
 ---
 
@@ -74,4 +76,4 @@ Combining a solid background in graphic design with modern full-stack web develo
 - 🔭 Expanding full-stack web applications and scalable API architectures.
 - 🎨 Deepening frontend engineering, reactive interfaces, and modern UI/UX workflows.
 - 🐍 Exploring advanced asynchronous patterns and testing with Python & FastAPI.
-- 🚀 Open to Junior Full-Stack / Frontend / Backend developer opportunities.
+- 🚀 Open to Junior Full-Stack / Frontend / UI-focused developer opportunities.
