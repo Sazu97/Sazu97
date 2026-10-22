@@ -1,4 +1,4 @@
-[![github-header-banner.png](https://i.postimg.cc/Z5njKkZ2/github-header-banner.png)](https://postimg.cc/bZX13BZ9)
+[![github-header-banner.png](https://i.postimg.cc/0yFLSsvY/github-header-banner-(1).png)]([https://postimg.cc/bZX13BZ9](https://postimg.cc/CRCPy9z5))
 
 # Hi there! I'm Sara 👋
 **Junior Full-Stack Web Developer & UI/UX Designer**
